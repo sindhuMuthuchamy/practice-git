@@ -2,3 +2,5 @@ git clone (URL)
 git status (check status)
 cd (folder name)
 git add .
+
+URL - link of project in github
